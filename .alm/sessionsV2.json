@@ -1,0 +1,91 @@
+{
+  "sessions": [
+    {
+      "id": "d33a950a-fbe6-4f95-89de-f1b9cf9bcc52",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "21f5e8e2-f008-411d-9767-5506d376859e",
+            "relativeUrl": "file://./src/pages/home/home.html",
+            "additionalData": null
+          },
+          {
+            "id": "be78dcd0-f490-4575-b643-3abf385886aa",
+            "relativeUrl": "file://./src/app/app.html",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1475607400996,
+      "selectedTabId": "be78dcd0-f490-4575-b643-3abf385886aa",
+      "fileTreeExpanded": true,
+      "errorsExpanded": true,
+      "errorsDisplayMode": 1
+    },
+    {
+      "id": "794fa047-5b33-46ba-a2a4-a1c9e8f66837",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1475606275247,
+      "selectedTabId": null
+    },
+    {
+      "id": "860d6a4a-69c5-46a6-bbef-0fdbad14e692",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1475606275223,
+      "selectedTabId": null
+    },
+    {
+      "id": "08277f2f-093a-45db-82ba-16bad173eaa9",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1475606275194,
+      "selectedTabId": null
+    },
+    {
+      "id": "d7f31a8e-909c-450c-9a0a-91792a710044",
+      "tabLayout": {
+        "type": "stack",
+        "width": 100,
+        "height": 100,
+        "tabs": [
+          {
+            "id": "596c3c65-95f9-4caf-bda5-ab654b649a59",
+            "relativeUrl": "file://./src/pages/home/home.html",
+            "additionalData": null
+          }
+        ],
+        "subItems": [],
+        "activeItemIndex": 0
+      },
+      "lastUsed": 1475606032119,
+      "selectedTabId": "596c3c65-95f9-4caf-bda5-ab654b649a59",
+      "fileTreeExpanded": true
+    }
+  ],
+  "relativePathToTsconfig": "./tsconfig.json"
+}

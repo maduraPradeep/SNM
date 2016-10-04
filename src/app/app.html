@@ -1,0 +1,23 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-buttons>
+      <button ion-button (click)="openModal()">
+    <ion-thumbnail item-left>
+      <img src="./assets/images/logo.png">
+    </ion-thumbnail>
+ </button>
+    </ion-buttons>̥
+        <ion-title>
+      SNM
+    </ion-title>
+
+    <ion-buttons end>
+      <button ion-button (click)="openModal()">
+       <ion-icon name="contact"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+<ion-nav [root]="rootPage" #content swipeBackEnabled="false"></ion-nav>
